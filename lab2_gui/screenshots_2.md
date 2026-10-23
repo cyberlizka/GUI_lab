@@ -12,6 +12,10 @@
 
 Обновление в строке RUB
 
+<img width="381" height="208" alt="image" src="https://github.com/user-attachments/assets/b454cab1-5e4b-4807-bce4-c8a6c7b4b867" />
+
+После нажатия Очистить все поля
+
 <img width="376" height="210" alt="image" src="https://github.com/user-attachments/assets/3cfde8c5-c0eb-41ef-94a1-ece7708f6015" />
 
 
