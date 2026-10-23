@@ -1,4 +1,5 @@
 Структура проекта:
+---
 .
 ├── main.py               # Точка входа: создает QApplication, собирает "шину сигналов" (build_signal_bus) и запускает окно
 ├── usd_signals.py        # Класс UsdSignals с сигналом usd_changed (float)
@@ -8,6 +9,7 @@
 ├── currency_converter.py # Интерфейс, логика пересчета (_apply), таблица курсов и сетевой запрос (API)
 ├── requirements.txt     # Список зависимостей (PyQt5)        
 └── screenshots_2.md      # Описание проекта
+---
 
 Исходное окно при запуске приложения
 
