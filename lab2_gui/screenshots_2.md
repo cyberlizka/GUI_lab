@@ -1,7 +1,3 @@
-Структура проекта:
-
-<img width="933" height="211" alt="image" src="https://github.com/user-attachments/assets/8fb0e146-bf87-4f9a-83f0-db0e430a97e3" />
-
 
 Исходное окно при запуске приложения
 
