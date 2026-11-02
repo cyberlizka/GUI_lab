@@ -25,6 +25,7 @@
 2. Сгенерируйте базу данных: `python fill_db.py`
 3. Запустите приложение: `python main.py`
 
+## Результаты
 
 <img width="849" height="630" alt="image" src="https://github.com/user-attachments/assets/d8a0727e-3d6b-4a44-a359-efa24f100a56" />
 
